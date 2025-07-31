@@ -6,8 +6,8 @@
 💡 **Full Stack Developer | UI/UX Designer | AI & DevOps Enthusiast**  
 🎂 **22 years old**, passionate about building impactful projects.  
 
-- 🔭 Currently working on **web and mobile apps with React & Node.js**  
-- 🌱 Learning **React Native, Prisma, and DevOps best practices**  
+- 🔭 Currently working on **a mobile app with React native & Node.js**  
+- 🌱 Learning **DevOps best practices**  
 - 🎯 Goal: **Create impactful solutions that make a difference**  
 
 ---
@@ -83,21 +83,16 @@ I have foundational knowledge in **information security** and **computer network
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=tokyonight)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=elegant&hide_border=false&border_radius=10" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=elegant&hide_border=false&border_radius=10" height="165" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=tokyonight)  
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RihamBouchiha&theme=elegant&hide_border=false&border_radius=10" />
-  </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RihamBouchiha&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 ## 📄 My Resume
-📥 [**⬇️ Download My CV**](https://drive.google.com/file/d/1D95T8y5PVojMzoN5YvBuuWYq3SwkdWjc/view?usp=sharing)  
+📥 [**Download My CV**](https://drive.google.com/file/d/1D95T8y5PVojMzoN5YvBuuWYq3SwkdWjc/view?usp=sharing)  
 
 ---
 
@@ -107,4 +102,4 @@ I have foundational knowledge in **information security** and **computer network
 
 ---
 
-⭐ *Feel free to check out my projects and collaborate with me!*
+⭐ **Feel free to check out my projects and collaborate with me!**
