@@ -84,9 +84,16 @@ I have foundational knowledge in **information security** and **computer network
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RihamBouchiha&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=elegant&hide_border=false&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=elegant&hide_border=false&border_radius=10" height="165" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RihamBouchiha&theme=elegant&hide_border=false&border_radius=10" />
+  </a>
+</p>
 
 
 ## 📄 My Resume
