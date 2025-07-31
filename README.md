@@ -93,13 +93,13 @@
 ---
 
 ## 📄 My Resume
-📥 [**Download My CV**](https://your-cv-link.com) *(Upload your CV to Google Drive or GitHub and put the link here)*  
+📥 [**Download My CV**](https://your-cv-link.com)  
 
 ---
 
 ## 📫 Contact Me
 📧 Email: **rihambouchiha@ump.ac.ma**  
-🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/riham-bouchiha-138419274/) *(Replace with your real link)*  
+🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/riham-bouchiha-138419274/)  
 
 ---
 
