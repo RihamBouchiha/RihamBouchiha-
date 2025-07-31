@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F79D9D&width=600&lines=Hi+👋+I'm+Riham+Bouchiha;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-💻 **Passionate developer** specialized in web, mobile, and innovative projects.  
-🚀 Building applications using **React, Node.js, Java, Spring Boot, and MySQL**.  
-📚 Always learning and exploring new technologies!  
-
----
 
 ## 🚀 About Me
+🎓 I’m a **4th-year Computer Engineering student** at **ENIAD**.  
+💡 **Full Stack Developer | UI/UX Designer | AI & DevOps Enthusiast**  
+🎂 **22 years old**, passionate about building impactful projects.  
+
 - 🔭 Currently working on **web and mobile apps with React & Node.js**  
 - 🌱 Learning **React Native, Prisma, and DevOps best practices**  
 - 🎯 Goal: **Create impactful solutions that make a difference**  
@@ -31,7 +30,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -46,11 +45,25 @@
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Databases & Query Languages
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL_SQL-003B57?style=for-the-badge&logo=oracle&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### 🛡️ Security & Networking
+I have foundational knowledge in **information security** and **computer networking**, including:
+
+- 🔐 Basics of cybersecurity principles, encryption, and secure coding practices  
+- 🌐 Understanding of network protocols, TCP/IP, routing, and network architecture  
+- 🛠️ Familiarity with firewalls, VPNs, and network troubleshooting tools  
+
+![Security](https://img.shields.io/badge/Security-FF6F61?style=for-the-badge&logo=keybase&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A74DA?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
@@ -78,7 +91,13 @@
 ---
 
 ## 📄 My Resume
-📥 [**⬇️ Download My CV**](https://your-cv-link.com) *(Upload your CV to Google Drive or GitHub and put the link here)*  
+📥 [**⬇️ Download My CV**](https://your-cv-link.com)  
+
+---
+
+## 🔗 Connect with Me
+💼 [LinkedIn Profile](https://www.linkedin.com/in/rihambouchiha)  
+📧 **rihambouchiha@ump.ac.ma**  
 
 ---
 
